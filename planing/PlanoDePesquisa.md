@@ -1,5 +1,4 @@
-# 📚 Pesquisa sobre Empresa da Área de Tecnologia
-## Relatório – Pearson Education
+
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Área](https://img.shields.io/badge/área-Tecnologia%20Educacional-blue)
@@ -11,7 +10,7 @@
 
 ## 📑 Sumário
 
-- [Pesquisa sobre empresa da área de Tecnologia](#1-introdução)
+- [Pesquisa sobre empresa da área de Tecnologia](#Pesquisa-sobre-Empresa-da-Área-de-Tecnologia)
 - [Impactos Ambientais](#impactos-ambientais-da-área-de-tecnologia)
 - [Segurança do Trabalho](#segurança-do-trabalho-na-área-de-tecnologia)
 - [Análise do Tema do TCC](#análise-do-tema-do-tcc)
@@ -19,6 +18,7 @@
 - [Tipos de Pesquisa Utilizados](#tipos-de-pesquisa-utilizados-no-tcc)
 
 ---
+# Pesquisa sobre Empresa da Área de Tecnologia
 
 ## 1. Introdução
 
