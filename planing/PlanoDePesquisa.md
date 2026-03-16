@@ -1,39 +1,46 @@
-# 📚 Pesquisa sobre empresa da área de Tecnologia
+# 📚 Pesquisa sobre Empresa da Área de Tecnologia
+## Relatório – Pearson Education
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Área](https://img.shields.io/badge/área-Tecnologia%20Educacional-blue)
 ![Curso](https://img.shields.io/badge/curso-Desenvolvimento%20de%20Sistemas-green)
 ![Projeto](https://img.shields.io/badge/projeto-TCC-orange)
+![Licença](https://img.shields.io/badge/licença-educacional-lightgrey)
 
 ---
 
 ## 📑 Sumário
 
-- [Introdução](#introdução)
-- [Nome da Empresa](#nome-da-empresa)
-- [Área de Atuação](#área-de-atuação)
-- [Como Atua na Região](#como-atua-na-região)
-- [Setor Tecnológico Atendido](#setor-tecnológico-atendido)
-- [Principais Produtos e Serviços](#principais-produtos-e-serviços)
-- [Outras Informações Relevantes](#outras-informações-relevantes)
-- [Conclusão](#conclusão)
-- [Referências](#referências)
+- [1. Introdução](#1-introdução)
+- [2. Nome da Empresa](#2-nome-da-empresa)
+- [3. Área de Atuação](#3-área-de-atuação)
+- [4. Como Atua na Região](#4-como-atua-na-região)
+- [5. Setor Tecnológico Atendido](#5-setor-tecnológico-atendido)
+- [6. Principais Produtos e Serviços](#6-principais-produtos-e-serviços)
+- [7. Outras Informações Relevantes](#7-outras-informações-relevantes)
+- [8. Conclusão](#8-conclusão)
+- [9. Referências](#9-referências)
+- [Impactos Ambientais](#impactos-ambientais-da-área-de-tecnologia)
+- [Segurança do Trabalho](#segurança-do-trabalho-na-área-de-tecnologia)
+- [Análise do Tema do TCC](#análise-do-tema-do-tcc)
+- [Cronograma do Projeto](#cronograma-do-projeto)
+- [Tipos de Pesquisa Utilizados](#tipos-de-pesquisa-utilizados-no-tcc)
 
 ---
 
-## Introdução
+# 1. Introdução
 
 Este relatório apresenta informações sobre a empresa **Pearson Education**, abordando sua área de atuação, forma de atuação na região, setor tecnológico atendido, principais produtos e serviços, além de outras informações relevantes sobre a organização.
 
 ---
 
-## Nome da Empresa
+# 2. Nome da Empresa
 
 A empresa analisada é a **Pearson Education**, conhecida no Brasil como **Pearson Education do Brasil Ltda.**
 
 ---
 
-## Área de Atuação
+# 3. Área de Atuação
 
 A Pearson atua no setor de **educação**, com foco em **tecnologia educacional (EdTech)**.
 
@@ -47,7 +54,7 @@ Seu objetivo é melhorar o processo de ensino e aprendizagem por meio do uso de 
 
 ---
 
-## Como Atua na Região
+# 4. Como Atua na Região
 
 A Pearson atua no Brasil desde a **década de 1970**.
 
@@ -67,32 +74,32 @@ Suas atividades incluem:
 
 No estado de **São Paulo**, a empresa possui operações e centros de distribuição.
 
-### Principal projeto
+### 📚 Principal projeto
 
 A **biblioteca virtual da Pearson** é uma plataforma utilizada por universidades, escolas e empresas.
 
-Ela oferece:
+Ela integra diversas etapas da educação em um único ambiente, oferecendo:
 
-- Grande acervo de livros  
-- Comentários de autores  
-- Exercícios  
-- Feedback educacional  
+- Grande acervo de livros
+- Comentários de autores
+- Exercícios
+- Feedback educacional
 
 ---
 
-## Setor Tecnológico Atendido
+# 5. Setor Tecnológico Atendido
 
 O principal setor tecnológico atendido pela empresa é o de **Tecnologia Educacional (EdTech)**.
 
 Esse setor utiliza ferramentas digitais para:
 
-- Melhorar a qualidade do ensino  
-- Facilitar o acesso ao conhecimento  
+- Melhorar a qualidade do ensino
+- Facilitar o acesso ao conhecimento
 - Tornar o aprendizado mais interativo
 
 ---
 
-## Principais Produtos e Serviços
+# 6. Principais Produtos e Serviços
 
 Entre os principais produtos e serviços oferecidos pela Pearson estão:
 
@@ -103,23 +110,25 @@ Entre os principais produtos e serviços oferecidos pela Pearson estão:
 - 🏫 Conteúdos educacionais para escolas e universidades  
 - 🏢 Soluções de treinamento corporativo  
 
+Esses produtos ajudam estudantes e professores a desenvolver métodos de aprendizado mais modernos.
+
 ---
 
-## Outras Informações Relevantes
+# 7. Outras Informações Relevantes
 
 A Pearson é considerada **uma das maiores empresas de educação do mundo**.
 
 A empresa:
 
-- Atua em diversos países  
-- Possui milhares de funcionários  
-- Atende milhões de estudantes  
+- Atua em diversos países
+- Possui milhares de funcionários
+- Atende milhões de estudantes
 
-Além disso, investe constantemente em **tecnologia educacional e inovação**.
+Além disso, investe constantemente em **inovação e tecnologia educacional**.
 
 ---
 
-## Conclusão
+# 8. Conclusão
 
 A Pearson Education é uma empresa global importante no setor de **educação e tecnologia educacional**.
 
@@ -129,7 +138,7 @@ No Brasil, a empresa contribui para a **modernização da educação digital**.
 
 ---
 
-## Referências
+# 9. Referências
 
 PEARSON.  
 Sobre a Pearson Brasil.  
@@ -145,7 +154,8 @@ https://cnpj.biz
 
 PORTAL DA TRANSPARÊNCIA.  
 Cadastro de pessoa jurídica.  
-https://portaldatransparencia.gov.br
+https://portaldatransparencia.gov.br  
+
 ---
 
 # Impactos Ambientais da Área de Tecnologia
