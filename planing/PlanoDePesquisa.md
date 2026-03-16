@@ -20,19 +20,19 @@
 
 ---
 
-# 1. Introdução
+## 1. Introdução
 
 Este relatório apresenta informações sobre a empresa **Pearson Education**, abordando sua área de atuação, forma de atuação na região, setor tecnológico atendido, principais produtos e serviços, além de outras informações relevantes sobre a organização.
 
 ---
 
-# 2. Nome da Empresa
+## 2. Nome da Empresa
 
 A empresa analisada é a **Pearson Education**, conhecida no Brasil como **Pearson Education do Brasil Ltda.**
 
 ---
 
-# 3. Área de Atuação
+## 3. Área de Atuação
 
 A Pearson atua no setor de **educação**, com foco em **tecnologia educacional (EdTech)**.
 
@@ -46,7 +46,7 @@ Seu objetivo é melhorar o processo de ensino e aprendizagem por meio do uso de 
 
 ---
 
-# 4. Como Atua na Região
+## 4. Como Atua na Região
 
 A Pearson atua no Brasil desde a **década de 1970**.
 
@@ -79,7 +79,7 @@ Ela integra diversas etapas da educação em um único ambiente, oferecendo:
 
 ---
 
-# 5. Setor Tecnológico Atendido
+## 5. Setor Tecnológico Atendido
 
 O principal setor tecnológico atendido pela empresa é o de **Tecnologia Educacional (EdTech)**.
 
@@ -91,7 +91,7 @@ Esse setor utiliza ferramentas digitais para:
 
 ---
 
-# 6. Principais Produtos e Serviços
+## 6. Principais Produtos e Serviços
 
 Entre os principais produtos e serviços oferecidos pela Pearson estão:
 
@@ -106,7 +106,7 @@ Esses produtos ajudam estudantes e professores a desenvolver métodos de aprendi
 
 ---
 
-# 7. Outras Informações Relevantes
+## 7. Outras Informações Relevantes
 
 A Pearson é considerada **uma das maiores empresas de educação do mundo**.
 
@@ -120,7 +120,7 @@ Além disso, investe constantemente em **inovação e tecnologia educacional**.
 
 ---
 
-# 8. Conclusão
+## 8. Conclusão
 
 A Pearson Education é uma empresa global importante no setor de **educação e tecnologia educacional**.
 
@@ -130,7 +130,7 @@ No Brasil, a empresa contribui para a **modernização da educação digital**.
 
 ---
 
-# 9. Referências
+## 9. Referências
 
 PEARSON.  
 Sobre a Pearson Brasil.  
