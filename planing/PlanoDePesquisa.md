@@ -11,15 +11,7 @@
 
 ## 📑 Sumário
 
-- [1. Introdução](#1-introdução)
-- [2. Nome da Empresa](#2-nome-da-empresa)
-- [3. Área de Atuação](#3-área-de-atuação)
-- [4. Como Atua na Região](#4-como-atua-na-região)
-- [5. Setor Tecnológico Atendido](#5-setor-tecnológico-atendido)
-- [6. Principais Produtos e Serviços](#6-principais-produtos-e-serviços)
-- [7. Outras Informações Relevantes](#7-outras-informações-relevantes)
-- [8. Conclusão](#8-conclusão)
-- [9. Referências](#9-referências)
+- [Pesquisa sobre empresa da área de Tecnologia](#1-introdução)
 - [Impactos Ambientais](#impactos-ambientais-da-área-de-tecnologia)
 - [Segurança do Trabalho](#segurança-do-trabalho-na-área-de-tecnologia)
 - [Análise do Tema do TCC](#análise-do-tema-do-tcc)
