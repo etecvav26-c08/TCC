@@ -1,4 +1,4 @@
-#Plataforma Web Acadêmica para Comunicação, Gestão de Turmas e Entrega de Atividades
+# Plataforma Web Acadêmica para Comunicação, Gestão de Turmas e Entrega de Atividades
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Área](https://img.shields.io/badge/área-Tecnologia%20Educacional-blue)
