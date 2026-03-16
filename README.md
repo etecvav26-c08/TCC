@@ -1,6 +1,6 @@
 # Academic Collaboration Platform
 
-Plataforma web de colaboração acadêmica inspirada no Microsoft Teams, desenvolvida especificamente para o ambiente escolar e universitário. O sistema integra comunicação, organização de turmas, gerenciamento de trabalhos, entregas e acompanhamento de desempenho em um único ambiente.
+Plataforma web de colaboração acadêmica, desenvolvida especificamente para o ambiente escolar e universitário. O sistema integra comunicação, organização de turmas, gerenciamento de trabalhos, entregas e acompanhamento de desempenho em um único ambiente.
 
 ## Objetivo
 
