@@ -199,19 +199,14 @@ Primeiro bimestre:
 
 -Pedro Biano: Designado a função de documentação e desenvolvimento do formulário.
 
----
 
 Segundo bimestre:
 
----
 
 Terceiro bimestre:
 
----
 
 Quarto bimestre:
-
----
 
 
 # Tipos de Pesquisa Utilizados no TCC
