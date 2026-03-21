@@ -185,12 +185,13 @@ A plataforma facilitará:
 
 # Cronograma do Projeto
 
-##Integrantes 
+## Integrantes 
+
 Cada integrante será designado uma função principal:
 Primeiro bimestre:
 -Guilhereme: Desenvolvera a estrutura do projeto (A ordem de cada processo).
 -Gustavo Antônio: Fará a pesquisa de plataformas open source, para desenvolvimento do projeto.
--Pedro Biano: Designado a função de documentação.
+-Pedro Biano: Designado a função de documentação e desenvolvimento do formulário.
 --
 Segundo bimestre:
 --
