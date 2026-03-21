@@ -189,6 +189,8 @@ A plataforma facilitará:
 
 Cada integrante será designado uma função principal:
 
+---
+
 Primeiro bimestre:
 
 -Guilhereme: Desenvolvera a estrutura do projeto (A ordem de cada processo).
@@ -197,7 +199,7 @@ Primeiro bimestre:
 
 -Pedro Biano: Designado a função de documentação e desenvolvimento do formulário.
 
---
+---
 
 Segundo bimestre:
 
@@ -205,11 +207,11 @@ Segundo bimestre:
 
 Terceiro bimestre:
 
---
+---
 
 Quarto bimestre:
 
---
+---
 
 
 # Tipos de Pesquisa Utilizados no TCC
