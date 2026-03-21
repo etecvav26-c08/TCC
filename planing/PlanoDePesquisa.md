@@ -191,7 +191,7 @@ Cada integrante será designado uma função principal:
 
 
 
-Primeiro bimestre:
+###Primeiro bimestre:
 
 - Guilhereme: Desenvolvera a estrutura do projeto (A ordem de cada processo).
 
@@ -201,7 +201,7 @@ Primeiro bimestre:
 
 
 
-Segundo bimestre:
+###Segundo bimestre:
 
 - Guilhereme: 
 
@@ -209,7 +209,7 @@ Segundo bimestre:
 
 - Pedro Biano: 
 
-Terceiro bimestre:
+###Terceiro bimestre:
 
 - Guilhereme: 
 
@@ -217,7 +217,7 @@ Terceiro bimestre:
 
 - Pedro Biano: 
 
-Quarto bimestre:
+###Quarto bimestre:
 
 - Guilhereme: 
 
