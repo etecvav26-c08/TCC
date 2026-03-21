@@ -203,13 +203,27 @@ Primeiro bimestre:
 
 Segundo bimestre:
 
+- Guilhereme: 
 
+- Gustavo Antônio:
+
+- Pedro Biano: 
 
 Terceiro bimestre:
 
+- Guilhereme: 
 
+- Gustavo Antônio:
+
+- Pedro Biano: 
 
 Quarto bimestre:
+
+- Guilhereme: 
+
+- Gustavo Antônio:
+
+- Pedro Biano: 
 
 
 # Tipos de Pesquisa Utilizados no TCC
