@@ -185,24 +185,20 @@ A plataforma facilitará:
 
 # Cronograma do Projeto
 
-## Importância do cronograma
+##Integrantes 
+Cada integrante será designado uma função principal:
+Primeiro bimestre:
+-Guilhereme: Desenvolvera a estrutura do projeto (A ordem de cada processo).
+-Gustavo Antônio: Fará a pesquisa de plataformas open source, para desenvolvimento do projeto.
+-Pedro Biano: Designado a função de documentação.
+--
+Segundo bimestre:
+--
+Terceiro bimestre:
+--
+Quarto bimestre:
+--
 
-O cronograma ajuda a organizar o projeto, definindo:
-
-- O que cada integrante fará
-- A ordem das atividades
-- Os prazos de cada etapa
-
-### Bases tecnológicas
-
-O cronograma ajuda a:
-
-- Planejar etapas
-- Distribuir tarefas
-- Controlar prazos
-- Garantir entrega no tempo previsto
-
----
 
 # Tipos de Pesquisa Utilizados no TCC
 
