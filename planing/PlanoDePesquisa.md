@@ -122,30 +122,6 @@ O projeto utilizará diferentes tipos de pesquisa:
 
 ---
 
-## 🌱 Impactos Ambientais
-
-O projeto pode gerar impactos ambientais devido ao uso de servidores e consumo de energia em datacenters.  
-
-Para minimizar isso, pode-se utilizar:
-- Hospedagens sustentáveis  
-- Otimização do sistema para reduzir consumo de recursos  
-
----
-
-## ⚠️ Segurança do Trabalho
-
-Possíveis problemas:
-
-- Má postura  
-- LER/DORT  
-- Cansaço visual  
-- Uso excessivo de telas  
-
-Solução proposta:
-- Implementação de alertas de tempo de uso no sistema  
-
----
-
 ## 📈 Resultados Esperados
 
 - Desenvolvimento de uma plataforma funcional  
