@@ -160,9 +160,3 @@ O projeto utilizará diferentes tipos de pesquisa:
 - Foco na experiência com plataformas digitais  
 
 ---
-
-## ✅ Considerações Finais
-
-As técnicas utilizadas permitirão coletar dados confiáveis para o desenvolvimento do projeto, garantindo que a plataforma atenda às reais necessidades dos usuários.
-
----
