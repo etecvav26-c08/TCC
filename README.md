@@ -1,4 +1,4 @@
-# Academic Collaboration Platform
+# Sistema Web para Gestão Acadêmica e Interação entre Alunos e Professores
 
 Plataforma web de colaboração acadêmica, desenvolvida especificamente para o ambiente escolar e universitário. O sistema integra comunicação, organização de turmas, gerenciamento de trabalhos, entregas e acompanhamento de desempenho em um único ambiente.
 
