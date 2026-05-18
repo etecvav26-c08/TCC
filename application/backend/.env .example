@@ -1,1 +1,8 @@
-
+MOODLE_URL=http://localhost
+MOODLE_TOKEN=seu_token_aqui
+JWT_SECRET=seu_segredo_aqui
+PORT=3001
+DB_HOST=localhost
+DB_NAME=tcc_chat
+DB_USER=postgres
+DB_PASS=senha_aqui
