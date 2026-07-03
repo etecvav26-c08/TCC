@@ -209,13 +209,9 @@ A UML é uma linguagem de modelagem essencial para o desenvolvimento de software
 
 Diagramas como o de **Caso de Uso** e o de **Classes** são pilares nesse processo. Enquanto o Diagrama de Caso de Uso atua como uma ponte entre o mundo do negócio e o desenvolvimento, descrevendo os requisitos de forma acessível para o cliente e garantindo que todos entendam o escopo do sistema, o Diagrama de Classes mergulha na estrutura interna, fornecendo um modelo detalhado para os programadores construírem o software de forma organizada e eficiente.
 
-Ao longo desta pesquisa, adquirimos conhecimentos práticos sobre como um sistema pode ser modelado, compreendendo a importância de cada diagrama e sua aplicação nas diferentes fases do ciclo de vida de um projeto. Aprendemos a diferença fundamental entre "o que fazer" e "como fazer", habilidades cruciais para qualquer profissional da área de tecnologia.
-
 ---
 
 ## Referências
-
-BOOCH, G.; RUMBAUGH, J.; JACOBSON, I. *UML: Guia do Usuário*. 2. ed. Rio de Janeiro: Elsevier, 2005.
 
 GUIDE TO UML DIAGRAMS. **Use Case Diagram**. *Visual Paradigm Blog*, 8 jan. 2026. Disponível em: https://blog.visual-paradigm.com/pt/use-case-diagram-tutorial/. Acesso em: 3 jul. 2026.
 
@@ -226,7 +222,5 @@ KDE COMMUNITY. **Elementos UML**. In: *Umbrello UML Modeller Handbook*. Disponí
 **NATIONAL INSTITUTES OF HEALTH (NIH)**. Use-case diagram for point-of-care testing (POCT) swabbing process. *PubMed Central*, 2025. Disponível em: https://pmc.ncbi.nlm.nih.gov/articles/PMC11687256/figure/fig1/. Acesso em: 3 jul. 2026.
 
 PLANTUML. **Diagrama de Casos de Uso**. Disponível em: http://alphadoc.plantuml.com/raw/markdown/es/use-case-diagram. Acesso em: 3 jul. 2026.
-
-SEAS. **Tipos de relaciones en diagramas de casos de uso. UML**. *Blog SEAS*, 18 mar. 2013. Disponível em: https://www.seas.es/blog/informatica/tipos-de-relaciones-en-diagramas-de-casos-de-uso-uml/. Acesso em: 3 jul. 2026.
 
 WIKIPÉDIA. **Diagrama de caso de uso**. Disponível em: https://pt.wikipedia.org/wiki/Diagrama_de_caso_de_uso. Acesso em: 3 jul. 2026.
