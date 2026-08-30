@@ -4,7 +4,7 @@
 
 A Plataforma Acadêmica Web Integrada ao Moodle é uma solução desenvolvida para modernizar a experiência acadêmica através de uma interface web mais intuitiva, comunicação em tempo real e integração transparente com o ambiente Moodle.
 
-O projeto busca reduzir dificuldades encontradas em plataformas acadêmicas tradicionais, oferecendo uma experiência mais acessível, organizada e eficiente para alunos e professores.
+O projeto visa mitigar os entraves crônicos de usabilidade e a falta de organização característicos das plataformas acadêmicas tradicionais, proporcionando um ambiente linear e unificado que democratiza o acesso técnico e otimiza a rotina pedagógica de alunos e professores no contexto da escola pública.
 
 ---
 
@@ -16,6 +16,7 @@ Desenvolver uma plataforma complementar ao Moodle que facilite:
 - Acompanhamento acadêmico;
 - Organização das atividades educacionais;
 - Acesso simplificado aos recursos acadêmicos.
+- Democratização do acesso a educação digital
 
 ---
 
