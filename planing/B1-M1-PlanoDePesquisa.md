@@ -18,7 +18,7 @@ Plataforma Web Acadêmica para Comunicação, Gestão de Turmas e Entrega de Ati
 
 ## 📝 Resumo
 
-Este projeto tem como objetivo o desenvolvimento de uma plataforma web acadêmica voltada para facilitar a comunicação entre alunos e professores, além de permitir a gestão de turmas e a entrega de atividades escolares.  
+Este projeto tem como objetivo o desenvolvimento de uma plataforma web acadêmica voltada para facilitar a comunicação entre alunos e professores, com enfase na realidade escolar pública dos docentes discentes brasileiros, além de permitir a gestão de turmas e a entrega de atividades escolares.  
 
 A pesquisa é relevante devido à crescente necessidade de digitalização do ensino, principalmente após o aumento do uso de plataformas online na educação.  
 
@@ -35,7 +35,7 @@ Como resultado esperado, pretende-se criar um sistema funcional, intuitivo e seg
 - Ensino digital  
 - Gestão acadêmica  
 - Comunicação  
-
+- Ensino público
 ---
 
 # 📖 Plano de Pesquisa
@@ -44,7 +44,8 @@ Como resultado esperado, pretende-se criar um sistema funcional, intuitivo e seg
 
 Com o avanço da tecnologia e a digitalização do ensino, tornou-se essencial o uso de plataformas digitais no ambiente educacional. Essas ferramentas permitem maior organização, comunicação e acesso ao conteúdo por parte de alunos e professores.  
 
-No entanto, muitas plataformas existentes apresentam limitações em usabilidade, organização ou funcionalidades.  
+
+No entanto, muitas plataformas existentes apresentam limitações em usabilidade, organização ou funcionalidades, além dessas dificuldades instituições de ensino público apresentam problemas com plataformas de auxilio educacional digital, no tocante sentido de verba, baixo nível de alfabetização e pouco conhecimento técnico digital, que atrapalham no nessas tecnologias educacionais. 
 
 Diante disso, este projeto propõe o desenvolvimento de uma plataforma acadêmica web que atenda às principais necessidades dos usuários, oferecendo uma solução eficiente e acessível.
 
@@ -54,12 +55,12 @@ Diante disso, este projeto propõe o desenvolvimento de uma plataforma acadêmic
 
 ### 🎯 Objetivo Geral
 
-Desenvolver uma plataforma web acadêmica que facilite a comunicação, organização de conteúdos e entrega de atividades entre alunos e professores.
+Desenvolver uma plataforma web acadêmica que facilite a comunicação, organização de conteúdos e entrega de atividades entre alunos e professores, com enfase na realidade escolar pública dos docentes discentes brasileiros.
 
 ### 🎯 Objetivos Específicos
 
-- Analisar plataformas educacionais já existentes  
-- Identificar dificuldades enfrentadas por usuários  
+- Analisar plataformas educacionais já existentes
+- Identificar dificuldades enfrentadas por usuários 
 - Desenvolver uma interface simples e intuitiva  
 - Implementar funcionalidades de envio e correção de atividades  
 - Garantir a segurança dos dados dos usuários  
