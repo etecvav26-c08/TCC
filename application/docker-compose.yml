@@ -1,0 +1,97 @@
+services:
+
+  # ── Banco de dados ────────────────────────────────────────
+  postgres:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: moodle
+      POSTGRES_PASSWORD: moodle123
+      POSTGRES_DB: moodle
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U moodle"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ── Moodle (PHP + Apache) ────────────────────────────────
+  moodle:
+    build: .
+    ports:
+      - "80:80"
+    environment:
+      MOODLE_DB_HOST: postgres
+      MOODLE_DB_NAME: moodle
+      MOODLE_DB_USER: moodle
+      MOODLE_DB_PASS: moodle123
+    volumes:
+      - moodle_data:/var/www/moodledata
+    depends_on:
+      postgres:
+        condition: service_healthy
+    command: >
+      bash -c "
+        php /var/www/html/admin/cli/install.php
+          --lang=pt_br
+          --wwwroot=http://localhost
+          --dataroot=/var/www/moodledata
+          --dbtype=pgsql
+          --dbhost=postgres
+          --dbname=moodle
+          --dbuser=moodle
+          --dbpass=moodle123
+          --fullname='Plataforma TCC'
+          --shortname=TCC
+          --adminuser=admin
+          --adminpass=Admin@1234
+          --adminemail=admin@tcc.com
+          --non-interactive
+          --agree-license 2>/dev/null || true
+        &&
+        php /var/www/html/admin/cli/install_database.php
+          --lang=pt_br
+          --fullname='Plataforma TCC'
+          --shortname=TCC
+          --adminuser=admin
+          --adminpass=Admin@1234
+          --adminemail=admin@tcc.com
+          --agree-license 2>/dev/null || true
+        &&
+        apache2-foreground
+      "
+
+  # ── Backend Node.js ───────────────────────────────────────
+  backend:
+    image: node:18
+    working_dir: /app
+    volumes:
+      - ./application/backend:/app
+    ports:
+      - "3001:3001"
+    environment:
+      MOODLE_URL: http://moodle
+      MOODLE_TOKEN: CONFIGURAR_APOS_INSTALAR
+      JWT_SECRET: tcc_secret_2026
+      PORT: 3001
+    command: >
+      bash -c "npm install && node index.js"
+    depends_on:
+      - moodle
+
+  # ── Frontend React ────────────────────────────────────────
+  frontend:
+    image: node:18
+    working_dir: /app
+    volumes:
+      - ./application/frontend:/app
+    ports:
+      - "5173:5173"
+    command: >
+      bash -c "npm install && npm run dev -- --host"
+    depends_on:
+      - backend
+
+volumes:
+  db_data:
+  moodle_data:
