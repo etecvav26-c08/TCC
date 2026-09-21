@@ -168,3 +168,9 @@ Projeto desenvolvido como Trabalho de Conclusão de Curso (TCC) do curso Técnic
 ## 📄 Licença
 
 Este projeto possui finalidade acadêmica e educacional.
+
+---
+
+## DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL
+
+Por meio deste texto declaramos que o usamos inteligência artificial para auxilio, no tocante sentido, de apoio e refinação dos textos escritos e busca de referências bibliográficas. A ferramenta usada foi o Gemini(NotebookLM) para a refinação da escrita e a busca de bibliografia. Todas as referências dadas pelo gemini faram analisadas antes de serem usadas no trabalho
