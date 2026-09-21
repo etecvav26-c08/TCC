@@ -1,0 +1,76 @@
+version: '3.8'
+
+services:
+  # ---- BANCO DE DADOS DO MOODLE ----
+  moodle-db:
+    image: postgres:16-alpine
+    container_name: sapientia-moodle-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: moodle
+      POSTGRES_USER: moodle
+      POSTGRES_PASSWORD: moodlepass
+    volumes:
+      - moodle-db-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U moodle"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  # ---- MOODLE ----
+  moodle:
+    image: erseco/alpine-moodle:latest
+    container_name: sapientia-moodle
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    environment:
+      MOODLE_DATABASE_TYPE: pgsql
+      MOODLE_DATABASE_HOST: moodle-db
+      MOODLE_DATABASE_NAME: moodle
+      MOODLE_DATABASE_USER: moodle
+      MOODLE_DATABASE_PASSWORD: moodlepass
+      MOODLE_USERNAME: admin
+      MOODLE_PASSWORD: Admin123!
+      MOODLE_EMAIL: admin@tcc.com
+      MOODLE_SITE_FULLNAME: Sapientia Moodle
+      MOODLE_SITE_SHORTNAME: Sapientia
+    volumes:
+      - moodle-data:/var/www/moodledata
+      - moodle-html:/var/www/html
+    depends_on:
+      moodle-db:
+        condition: service_healthy
+
+  # ---- BACKEND (Node.js) ----
+  backend:
+    build: ./backend
+    container_name: sapientia-backend
+    restart: unless-stopped
+    ports:
+      - "3001:3001"
+    environment:
+      PORT: 3001
+      MOODLE_URL: http://moodle:8080
+      JWT_SECRET: chave_secreta_sapientia_tcc_2026
+      MOODLE_TOKEN: cole_o_token_aqui
+    depends_on:
+      - moodle
+
+  # ---- FRONTEND (React + Vite) ----
+  frontend:
+    build: ./frontend
+    container_name: sapientia-frontend
+    restart: unless-stopped
+    ports:
+      - "5173:5173"
+    environment:
+      VITE_API_URL: http://localhost:3001
+    depends_on:
+      - backend
+
+volumes:
+  moodle-db-data:
+  moodle-data:
+  moodle-html:
